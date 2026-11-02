@@ -146,8 +146,6 @@ Mac Executor remains an interesting search topic for Mac users exploring Roblox 
 
 Whether you use an Apple Silicon MacBook or an Intel Mac, the most important considerations are software transparency, compatibility, security, and reliable documentation.
 
-Explore the repository, review its development activity, and verify every release before trusting an installer.
-
 **Stay informed. Explore responsibly. Keep your Mac secure.**
 
 <p align="center">
